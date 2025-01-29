@@ -36,7 +36,7 @@
 
 ---
 ### 🔗 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/gagan-dhanapune-23996a274/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gagan8605)
 
 💡 **Let's explore the world of data together!** 📊🚀
