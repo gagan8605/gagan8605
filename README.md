@@ -38,6 +38,9 @@
 ### 📈 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gagan8605&layout=compact&theme=tokyonight)
 
+
+[![Visitors](https://hits.sh/github.com/sagarkaregaonkar/sagarkaregaonkar.svg?style=for-the-badge&label=Visitors&color=blue)](https://hits.sh/github.com/gagan8605/gagan8605/)
+
 ---
 ### 🔗 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gagan-dhanapune-23996a274/)
