@@ -39,7 +39,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gagan8605&layout=compact&theme=tokyonight)
 
 
-[![Visitors](https://hits.sh/github.com/sagarkaregaonkar/sagarkaregaonkar.svg?style=for-the-badge&label=Visitors&color=blue)](https://hits.sh/github.com/gagan8605/gagan8605/)
+[![Hits](https://hits.sh/github.com/gagan8605/gagan8605.svg?color=91f96c)](https://hits.sh/github.com/gagan8605/gagan8605/)
 
 ---
 ### 🔗 Let's Connect:
